@@ -1,0 +1,10 @@
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.Properties.Resources.resources
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.csproj.GenerateResource.cache
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\bin\Debug\Virtualization_Environment.exe.config
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\bin\Debug\Virtualization_Environment.exe
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\bin\Debug\Virtualization_Environment.pdb
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.exe
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.pdb
+D:\Data\Tailieu\Projects\C#\Virtualization_Environment\Virtualization_Environment\obj\Debug\Virtualization_Environment.Form1.resources
